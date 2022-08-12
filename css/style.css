@@ -1,0 +1,14 @@
+* {
+  background-color: #121212;
+  color: #eee;
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
+
+li {
+  margin-bottom: 20px;
+}
